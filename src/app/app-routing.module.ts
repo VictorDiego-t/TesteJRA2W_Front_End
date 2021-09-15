@@ -1,6 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
+import { ClientesService } from './clientes/clientes.service';
+
 const routes: Routes = [];
 
 @NgModule({
