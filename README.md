@@ -1,27 +1,23 @@
 # ProjetoA2W
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+# CRUD - Cadastro De Clientes 
 
-## Development server
+<h2><span style="font-size:20px">Sobre o Projeto:</span></h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p>O projeto est&aacute; constituido em um Banco de dados SQL com duas tabelas (Clientes e Endere&ccedil;os), com a modelagem de 1 para N,&nbsp;Uma&nbsp;API com as funcionalidades de CRUD para essas duas tabelas E um Front-End para consumir as funcionalidades dessa API.</p>
 
-## Code scaffolding
+<h2><span style="font-size:20px">Sobre a API:</span></h2>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+https://github.com/VictorDiego-t/TesteJRA2W
 
-## Build
+<address>A API foi desenvolvida em C# Asp Net Core, e foi utilizado o EntityFramework no modelo (Code First), para a gera&ccedil;&atilde;o automatica do banco de dados SQL</address>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h2><span style="font-size:20px">Sobre o Front-End:</span></h2>
 
-## Running end-to-end tests
+https://github.com/VictorDiego-t/TesteJRA2W_Front_End
+<address>Para o font-end eu preferi utilizar o Angular 9, nele está incluso a estrutura para consumir a API, e um buscador de endere&ccedil;o por CEP.</address>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2 style="font-style:italic">&nbsp;</h2>
